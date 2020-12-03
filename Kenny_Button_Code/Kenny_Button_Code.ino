@@ -1,11 +1,12 @@
+/*Kenny Button
+ * Creator: Avan Peltier
+ * 12/3/2020
+ * Plays quotes of the one and only Kenny Kim through
+ * wired speaker
+ */
 void rdm_mp3() {
-  //opens quotes file
-
-  //error check file open
-  
   //Randomly chooses mp3 quotes to play 
 
-  //closes quotes file
 }
 
 

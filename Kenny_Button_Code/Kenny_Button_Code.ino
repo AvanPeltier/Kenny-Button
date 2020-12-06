@@ -5,6 +5,11 @@
  * Plays quotes of the one and only Kenny Kim through
  * wired speaker
  */
+#include <SD.h>
+
+const int buttonPin = 2; //Pin button switch
+const int speakerPin = 8; //Digital Output pin 8
+
 void rdm_mp3() {
   //Randomly chooses mp3 quotes to play 
 
